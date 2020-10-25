@@ -1,2 +1,3 @@
 # Improve-Network
-Execute the file red.bat and wait.
+Execute the file mejorarwifi.exe and wait.
+In the file red.bat are the code of mejorarwifi.exe.
